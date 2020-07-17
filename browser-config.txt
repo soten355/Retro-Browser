@@ -1,0 +1,30 @@
+[File Paths]
+Roms = ~Retropie/roms
+Icons = ~/RetroPie/images/saveicons
+Gamelists = ~/.emulationstation/gamelists
+
+[GUI]
+#background color for the save info dialogue box
+saveInfoBGColor = 0, 0, 0, 200
+# saveInfoBGImage = image location
+cursorImage = images/cursor-003.png
+BGImage = images/background-001.png
+returnImage = images/return-001.png
+defaultSaveIcon = images/default-save-001.png
+defaultEmulatorIcon = images/default-emulator-001.png
+
+[Icons]
+atari2600 = atari2600-002.png
+dreamcast = Dreamcast-001.png
+ds = DS-001.png
+gamecube = Gamecube-001.png
+gb = gb-001.png
+gba = GBA-001.png
+gbc = gbc-001.png
+megadrive = Genesis-002.png
+n64 = N64-001.png
+nes = NES-001.png
+psx = PSX-001.png
+return = Return-001.png
+snes = SNES-001.png
+xbox = Xbox-001.png
